@@ -33,6 +33,7 @@ System requirements
 
 
 * Windows, macOS or Linux.
+   - Only Bash shells are supported.
 
 * Python 2.7, 3.4, 3.5 or 3.6.
 * pycosat.
